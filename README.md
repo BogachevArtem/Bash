@@ -4,7 +4,6 @@ Bash
 
 Мое решение и описание команд:
 <br>
+<li><a href="https://raw.githubusercontent.com/BogachevArtem/Bash/main/BASH%20task1.txt" rel="nofollow">Задание 1</a></li>
 
-<a href="https://raw.githubusercontent.com/BogachevArtem/Bash/main/BASH%20task1.txt" rel="nofollow">Задание 1</a>
-
-<a href="https://raw.githubusercontent.com/BogachevArtem/Bash/main/BASH%20task2.txt" rel="nofollow">Задание 2</a>
+<li><a href="https://raw.githubusercontent.com/BogachevArtem/Bash/main/BASH%20task2.txt" rel="nofollow">Задание 2</a></li>
